@@ -1,3 +1,3 @@
-## Sample Map Website
+## Map Site
 
 <iframe src="2019_E1_Map.html" height="500" width="500"></iframe>
